@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RatosDLL", "RatosRAT.vcxproj", "{4393F9D9-CC63-4920-8E27-42750E377F9F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RatosInjector", "..\RatosInjector\RatosInjector.vcxproj", "{BFB152D6-ADBC-4C0D-832C-3EFE1553798B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4393F9D9-CC63-4920-8E27-42750E377F9F}.Debug|x64.ActiveCfg = Debug|x64
+		{4393F9D9-CC63-4920-8E27-42750E377F9F}.Debug|x64.Build.0 = Debug|x64
+		{4393F9D9-CC63-4920-8E27-42750E377F9F}.Debug|x86.ActiveCfg = Debug|Win32
+		{4393F9D9-CC63-4920-8E27-42750E377F9F}.Debug|x86.Build.0 = Debug|Win32
+		{4393F9D9-CC63-4920-8E27-42750E377F9F}.Release|x64.ActiveCfg = Release|x64
+		{4393F9D9-CC63-4920-8E27-42750E377F9F}.Release|x64.Build.0 = Release|x64
+		{4393F9D9-CC63-4920-8E27-42750E377F9F}.Release|x86.ActiveCfg = Release|Win32
+		{4393F9D9-CC63-4920-8E27-42750E377F9F}.Release|x86.Build.0 = Release|Win32
+		{BFB152D6-ADBC-4C0D-832C-3EFE1553798B}.Debug|x64.ActiveCfg = Debug|x64
+		{BFB152D6-ADBC-4C0D-832C-3EFE1553798B}.Debug|x64.Build.0 = Debug|x64
+		{BFB152D6-ADBC-4C0D-832C-3EFE1553798B}.Debug|x86.ActiveCfg = Debug|Win32
+		{BFB152D6-ADBC-4C0D-832C-3EFE1553798B}.Debug|x86.Build.0 = Debug|Win32
+		{BFB152D6-ADBC-4C0D-832C-3EFE1553798B}.Release|x64.ActiveCfg = Release|x64
+		{BFB152D6-ADBC-4C0D-832C-3EFE1553798B}.Release|x64.Build.0 = Release|x64
+		{BFB152D6-ADBC-4C0D-832C-3EFE1553798B}.Release|x86.ActiveCfg = Release|Win32
+		{BFB152D6-ADBC-4C0D-832C-3EFE1553798B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {779E5CAF-1DA3-4F6D-907F-3EF8BBC0A1EE}
+	EndGlobalSection
+EndGlobal
